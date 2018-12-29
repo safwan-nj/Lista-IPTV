@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://static.cinemagia.ro/img/tv_station/antena-1-hd.jpg",ANTENA 1 HD
+#EXTINF:-1 tvg-logo="https://static.cinemagia.ro/img/tv_station/antena-1-hd.jpg",ANTENA 1 HD
 http://fast-iptv.pro:8085/zoltan-bartha/6r4my32sEL/9999
 #EXTINF:-1,HBO HD
 http://fast-iptv.pro:8085/zoltan-bartha/6r4my32sEL/9383
