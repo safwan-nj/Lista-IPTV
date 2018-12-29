@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/eyes3r/Lista-EPG/master/romania.xml" x-tvg-url="https://raw.githubusercontent.com/eyes3r/Lista-EPG/master/romania.xml"
-#EXTINF:-1 tvg-id="Antena 1 RO" tvg-name="Antena 1 RO" tvg-logo="http://static.iptv-epg.com/ro/Antena1.ro.png" tvg-chno="1" channel-id="1" group-title="(No group)",Antena 1 HD
+#EXTINF:-1 tvg-id="Antena 1 RO" tvg-name="Antena 1 RO" tvg-logo="https://static.cinemagia.ro/img/tv_station/antena-1.jpg",Antena 1 HD
 http://fast-iptv.pro:8085/zoltan-bartha/6r4my32sEL/9999
 #EXTINF:-1,HBO HD
 http://fast-iptv.pro:8085/zoltan-bartha/6r4my32sEL/9383
